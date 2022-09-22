@@ -1,4 +1,4 @@
-![](https://github.com/Victory210/Victory/blob/main/background.jpg)
+![](https://github.com/victory210/Victory/blob/ed44b5cdf9a421813e0e76e3131095a0bd859e50/background.jpg)
 
 ### Overview
 
