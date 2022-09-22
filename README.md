@@ -15,4 +15,4 @@ Full Stack and Blockchain developer with awesome web technical skills, hefty pro
 
 What `Victory` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
 
-Feel free to contact `Victory` via [eMail](mailto:victoryr210@gmail.com?Subject=Hello%20Victory!), [Skype](https://join.skype.com/invite/zGN1TCxoIHVQ), [Telegram](https://t.me/victory210) who is always ready to make your professional dreams a reality.
+Feel free to contact `Victory` via [eMail](mailto:victoryr210@gmail.com?Subject=Hello%20Victory!), [Skype](https://join.skype.com/invite/zGN1TCxoIHVQ) and [Telegram](https://t.me/victory210) who is always ready to make your professional dreams a reality.
