@@ -25,11 +25,9 @@ Hello, world! 👋 I'm Anthony, a dynamic software engineer with a rich tapestry
 
 What `Victory` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
 
-Feel free to contact `Victory` via [eMail](mailto:oleksandrbokii@gmail.com?Subject=Hello%20Alex!), [Skype](https://join.skype.com/invite/zGN1TCxoIHVQ) and [Telegram](https://t.me/victory210) who is always ready to make your professional dreams a reality.
-
 ### 🤝 Let's Collaborate
 I believe in the synergy of collaboration. Whether you represent a visionary company or you're a fellow tech enthusiast, I'm excited by transformative opportunities and ventures. Let's reshape the digital frontier together!
 
-📧 Drop a line: anthonykim88415@gmail.com(mailto:anthonykim88415@gmail.com?Subject=Hello%20Alex!)
+📧 Drop a line: anthonykim88415@gmail.com
 💼 Connect on LinkedIn: https://www.linkedin.com/in/anthony-kim88415/
 📝 Explore my insights: [If you have a blog or portfolio site]
