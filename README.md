@@ -1,8 +1,8 @@
 ![](https://github.com/victory210/Victory/blob/ed44b5cdf9a421813e0e76e3131095a0bd859e50/background.jpg)
 
-### ✨  Overview  ✨
 
-Full Stack and Blockchain developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. My coding journey started in summer 2014. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
+### 🚀 About Me
+Hello there! 👋 I'm Anthony, a seasoned software engineer with over 12 years of rich experience in building scalable and robust applications and services. Passionate about designing architectures and coding, I have a unique blend of expertise in both frontend and backend technologies, enabling me to deliver end-to-end solutions for complex projects.
 
 #### ✨ Technical Stacks ✨
 
