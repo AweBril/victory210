@@ -29,5 +29,8 @@ What `Victory` does is to collaborate on enterprise solutions and to help people
 I believe in the synergy of collaboration. Whether you represent a visionary company or you're a fellow tech enthusiast, I'm excited by transformative opportunities and ventures. Let's reshape the digital frontier together!
 
 📧 Drop a line: anthonykim88415@gmail.com
+
 💼 Connect on LinkedIn: https://www.linkedin.com/in/anthony-kim88415/
+
 📝 Explore my insights: [If you have a blog or portfolio site]
+
