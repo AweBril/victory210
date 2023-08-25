@@ -1,18 +1,35 @@
-![](https://github.com/victory210/Victory/blob/ed44b5cdf9a421813e0e76e3131095a0bd859e50/background.jpg)
-
-
 ### 🚀 About Me
-Hello there! 👋 I'm Anthony, a seasoned software engineer with over 12 years of rich experience in building scalable and robust applications and services. Passionate about designing architectures and coding, I have a unique blend of expertise in both frontend and backend technologies, enabling me to deliver end-to-end solutions for complex projects.
+Hello, world! 👋 I'm Anthony, a dynamic software engineer with a rich tapestry of 12+ years, sculpting the digital realm. My journey in tech has been marked by my relentless pursuit of crafting scalable, resilient, and efficient systems. I've architected, developed, and scaled applications that have powered businesses and left lasting impacts.
 
 #### ✨ Technical Stacks ✨
 
-* 🥈 Blockchain: [Solidity](https://soliditylang.org/), [Truffle](https://trufflesuite.com/), [Hardhat](https://hardhat.org/), [Chainlink](https://chain.link/), [EVM](https://ethereum.org/en/developers/docs/evm/), [Diamond Standard](https://eips.ethereum.org/EIPS/eip-2535)
-* 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Vuesax](https://lusaxweb.github.io/vuesax/), [Vuetify](https://vuetifyjs.com/)), [Framework7](https://framework7.io/)
-* 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/), [Nest.js](https://nestjs.com/) ), [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/) ), [Java](https://www.java.com/) ( [Spring](https://spring.io/) )
-* 🥇 Hybrid Mobile App Development: [React-Native](https://reactjs.org/), [Ionic](https://ionicframework.com/), [NativeScript](https://nativescript.org/), [Flutter](https://flutter.dev/), [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
-* 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/) 
-* 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
+##### 🌐 Frontend
+* React & Next.js: Meticulously constructed intuitive SPAs, focusing on high performance and user-centric designs.
+* Vue.js: Adept in crafting reactive components and managing complex application states with Vuex.
+* Angular: Spearheaded the development of enterprise-grade applications, enforcing modular architecture and seamless user experiences.
+
+##### ⚙️ Backend
+* Golang: Capitalized on Go's robustness to design concurrent and high-throughput services and applications.
+* Ruby: Authored and scaled multiple RESTful APIs, streamlined third-party integrations, and honed in database performance optimizations and web application development using Ruby on Rails.
+* Others: Deep expertise in weaving backend magic with Java, Python, Node.js, and a plethora of other technologies.
+
+##### 🏛 System Design & Architecture
+* Scalability Expert: Championed the design and deployment of large-scale distributed systems, ensuring horizontal scalability and fault tolerance.
+* Performance Tuning: Optimized system throughput and latency, ensuring SLAs are consistently met, even during peak loads.
+* Microservices: Proficiently decomposed monolithic systems into modular microservices, streamlining deployments and scaling individual components with precision.
+
+##### 🛠 Tools & Technologies
+* Database Mastery: Profound knowledge in MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, CassandraDB, etc.
+* CI/CD Maestro: Automated build and deployment pipelines using GitHub Actions, Jenkins, etc.
+* DevOps Virtuoso: Orchestrated containerized applications and services using Docker, Kubernetes, Terraform, etc.
 
 What `Victory` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
 
 Feel free to contact `Victory` via [eMail](mailto:oleksandrbokii@gmail.com?Subject=Hello%20Alex!), [Skype](https://join.skype.com/invite/zGN1TCxoIHVQ) and [Telegram](https://t.me/victory210) who is always ready to make your professional dreams a reality.
+
+### 🤝 Let's Collaborate
+I believe in the synergy of collaboration. Whether you represent a visionary company or you're a fellow tech enthusiast, I'm excited by transformative opportunities and ventures. Let's reshape the digital frontier together!
+
+📧 Drop a line: anthonykim88415@gmail.com(mailto:anthonykim88415@gmail.com?Subject=Hello%20Alex!)
+💼 Connect on LinkedIn: https://www.linkedin.com/in/anthony-kim88415/
+📝 Explore my insights: [If you have a blog or portfolio site]
